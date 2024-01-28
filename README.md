@@ -14,5 +14,11 @@ Analysis Criteria:
 - Time-series analysis
 - Analysis narrative and final results
 
-# Data Set
-The data set for this project was provided in the Project Brief and was acquired through Kaggle. 
+# Data Sets
+- Citi Bike data: https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data
+- NYC Neighborhoods JSON: https://github.com/veltman/snd3/blob/master/data/nyc-neighborhoods.geo.json
+- S&P 500 for Time-Series Analysis: https://www.nasdaq.com/market-activity/index/spx/historical
+
+# Storyboard
+Tableau: https://public.tableau.com/app/profile/caroline.rimar/viz/RimarTask6_7/Spatial?publish=yes
+Please note the Tableau Storyboard only contains the most important visualizations created during this achievement.
