@@ -20,5 +20,5 @@ Analysis Criteria:
 - S&P 500 for Time-Series Analysis: https://www.nasdaq.com/market-activity/index/spx/historical
 
 # Storyboard
-Tableau: https://public.tableau.com/app/profile/caroline.rimar/viz/RimarTask6_7/Spatial?publish=yes
+Tableau: https://public.tableau.com/app/profile/caroline.rimar/viz/RimarTask6_7/Story1?publish=yes
 Please note the Tableau Storyboard only contains the most important visualizations created during this achievement.
